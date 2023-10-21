@@ -4,8 +4,8 @@ using namespace std;
 int main()
 {
   int n;
-  int arr[120];
-  cout << "Enter no.of elements you want:\n";
+  int arr[100];
+  cout << "En   ter no.of elements you want:\n";
   cin >> n;
   for (int i = 1; i <= n; i++)
   {
